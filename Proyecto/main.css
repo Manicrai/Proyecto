@@ -1,0 +1,23 @@
+
+
+/*estilos para la tabla*/
+table th {
+    background-color: #40A3E8 !important;
+    color: white;
+}
+table>tbody>tr>td {
+    vertical-align: middle !important;
+}
+
+/*para alinear los botones y cuadro de busqueda*/
+.btn-group, .btn-group-vertical {
+    position: absolute !important;
+}
+button { 
+    color: white;
+    border: none;
+    padding: 15px 20px;
+    border-radius: 20px;
+    background: #40A3E8
+    
+}
